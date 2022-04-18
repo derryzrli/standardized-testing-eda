@@ -1,4 +1,4 @@
-# Project 1: Standardized Test Analysis
+# Project - Standardized Test Analysis
 
 
 ### Problem Statement
